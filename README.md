@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @imdshk, a tech enthusiast, working as a Business Intellegence Developer mainly using Power BI.
-- ⏲ Likes to spend free time writing programs in python. **BUY WHY**, you ask?
-
-- 👀 I’m interested in finding ways to utilize computational power in creative ways
-- 🎯 My next target is to learn Quantum Computing
+👋 Hi, I’m @imdshk, a tech enthusiast, working as a Business Intellegence Developer mainly using Power BI
+⏲ Likes to spend free time writing programs in python. **BUY WHY**, you ask?
+👀 I’m interested in finding ways to utilize computational power in creative ways
+🎯 My next target is to learn Quantum Computing
 
 
 <!---
