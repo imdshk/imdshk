@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imdshk
-- 👀 I’m interested in finding ways to use computational power in a creative way
+- 👀 I’m interested in finding ways to use computational power in creative ways
 - 🌱 I’m currently learning Quantum Computing
 
 
