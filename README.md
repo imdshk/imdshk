@@ -3,7 +3,7 @@
 👀 I’m interested in finding ways to utilize computational power in creative ways (& market trading)
 
 
-🎯 My next target is to learn ML by learning to implement ML for Algorithmic Trading 
+🎯 My next target is to learn **Macine Learning** by learning to implement ML for Algorithmic Trading 
 
 
 For more info, check out https://www.imaadshaik.com/
