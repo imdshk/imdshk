@@ -1,9 +1,9 @@
 👋 Hi, I’m @imdshk, a tech enthusiast, working as a Business Intellegence Developer mainly using Power BI
 ⏲ Likes to spend free time writing programs in python. **BUY WHY**, you ask?
-👀 I’m interested in finding ways to utilize computational power in creative ways
+👀 I’m interested in finding ways to utilize computational power in creative ways (& market trading)
 
 
-🎯 My next target is to learn Quantum Computing
+🎯 My next target is to learn ML by learning to implement ML for Algorithmic Trading 
 
 
 For more info, check out https://www.imaadshaik.com/
