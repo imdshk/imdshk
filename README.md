@@ -1,6 +1,6 @@
 👋 Hi, I’m @imdshk, a tech enthusiast, working as a Business Intellegence Developer mainly using Microsoft Tech Stack
 ⏲ Likes to spend free time writing programs in python. **BUT WHY**, you ask?
-👀 I’m interested in finding ways to utilize computational power in creative ways (& market trading)
+👀 I’m interested in finding ways to utilize computational power in creative ways
 
 
 🎯 My next target is to learn **Macine Learning** by learning to implement ML for Algorithmic Trading 
