@@ -1,4 +1,4 @@
-👋 Hi, I’m @imdshk, a tech enthusiast, working as an Analytivcs and Data engineer mainly using Microsoft Tech Stack
+👋 Hi there, I’m @imdshk, a tech enthusiast, working as an Analytics and Data engineer mainly using Microsoft Tech Stack
 ⏲ Likes to spend free time writing programs in Javascript, React and python. **BUT WHY**, you ask?
 👀 I’m interested in finding ways to utilize computational power in creative ways
 
