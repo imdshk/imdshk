@@ -1,9 +1,9 @@
-👋 Hi, I’m @imdshk, a tech enthusiast, working as a Business Intellegence Developer mainly using Microsoft Tech Stack
-⏲ Likes to spend free time writing programs in python. **BUT WHY**, you ask?
+👋 Hi, I’m @imdshk, a tech enthusiast, working as an Analytivcs and Data engineer mainly using Microsoft Tech Stack
+⏲ Likes to spend free time writing programs in Javascript, React and python. **BUT WHY**, you ask?
 👀 I’m interested in finding ways to utilize computational power in creative ways
 
 
-🎯 My next target is to learn **Macine Learning** by learning to implement ML for Algorithmic Trading 
+🎯 My next target is to learn **Full stack Development** and build meaning products that help users solve their needs 😇
 
 
 For more info, check out https://www.imaadshaik.com/
