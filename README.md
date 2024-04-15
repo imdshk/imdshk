@@ -3,7 +3,7 @@
 👀 I’m interested in finding ways to utilize computational power in creative ways
 
 
-🎯 My next target is to learn **Full stack Development** and build meaning products that help users solve their needs 😇
+🎯 My next target is to learn **Full stack Development** and build meaningful products that help users solve their needs 😇
 
 
 For more info, check out https://www.imaadshaik.com/
